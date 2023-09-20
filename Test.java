@@ -8,7 +8,7 @@ public class Test {
 		Papagal primulPapagal = new Papagal();
 		Papagal alDoileaPapagal = new Papagal();
 		
-		Papagal celMaiZbomotosPapagal = new Papagal("Gicu",70);
+		Papagal celMaiZbomotosPapagal = new Papagal("Giculescu",70);
 	
 
 		primulPapagal.nume="Albert";
